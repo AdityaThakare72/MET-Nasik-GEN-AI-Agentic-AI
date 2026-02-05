@@ -1,0 +1,54 @@
+matplotlib
+seaborn
+pandas
+requests
+mlxtend
+
+
+
+# --- Model Integrations (Must be compatible with v0.3) ---
+langchain-google-genai>=2.0.0
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+langchain-ollama
+langchain_groq
+
+# --- AI & Data Utilities ---
+tensorflow
+transformers
+huggingface-hub
+torch
+torchvision
+numpy
+scikit-learn
+numexpr
+sentence-transformers
+chromadb
+
+# --- App Interfaces ---
+streamlit
+gradio
+
+# --- Tools & Helpers ---
+python-dotenv
+grandalf
+youtube_transcript_api
+
+# --- Pydantic (Let Pip resolve this naturally to satisfy Gradio) ---
+pydantic
+
+google-genai
+
+
+
+
+
+##################################################################################################
+
+# following are the new installations added recently
+
+langgraph
+networkx 
+matplotlib
+langchain-experimental
